@@ -1,0 +1,31 @@
+VS Code 설정-----------------------------------------------------------
+- Vetur
+- Night Owl
+- Material Icon Theme
+- Live Server
+- ESLint
+- Prettier
+- Auto Close Tag
+- Atom Keymap
+------------------------------------------------------------------------
+개발자 도구 단축키
+- 윈도우 : ctrl + shift + i / F12
+------------------------------------------------------------------------
+Object.defineProperty() API 문서 링크
+객체의 동작을 재정의 하는 api
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+
+즉시 실행 함수 MDN 문서 링크
+https://developer.mozilla.org/ko/docs/Glossary/IIFE
+
+생성자 함수
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Obsolete_Pages/Core_JavaScript_1.5_Guide/Creating_New_Objects/Using_a_Constructor_Function
+
+MDN Prototype 설명 문서
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+
+this 관련 글 1
+https://www.w3schools.com/js/js_this.asp
+
+this 관련 글 2
+https://medium.com/better-programming/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8
