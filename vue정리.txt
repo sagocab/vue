@@ -29,3 +29,15 @@ https://www.w3schools.com/js/js_this.asp
 
 this 관련 글 2
 https://medium.com/better-programming/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8
+
+라우터 공식 사이트 설치 문서 링크
+https://router.vuejs.org/installation.html
+
+네비게이션 가드 블로그 글 안내
+https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/
+
+Ajax 위키백과 링크
+https://ko.wikipedia.org/wiki/Ajax
+
+Vue Resource 깃헙 주소 ( 참고 : 오래전에 사용, pagekit에 소유권있음 )
+https://github.com/pagekit/vue-resource
