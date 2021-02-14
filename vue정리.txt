@@ -41,3 +41,6 @@ https://ko.wikipedia.org/wiki/Ajax
 
 Vue Resource 깃헙 주소 ( 참고 : 오래전에 사용, pagekit에 소유권있음 )
 https://github.com/pagekit/vue-resource
+
+로컬 스토리지 setItem() API 공식 가이드
+https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem
