@@ -89,6 +89,7 @@ import {sum} from 'libs/math.js';
 sum(1,2);
 
 - vue.js에 마주칠 default export
+  한개의 하나만 export 됨.
 // util.js
 export default function(x){
     return console.log(x);
